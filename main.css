@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: rgb(171, 108, 230);
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 3%;
+    text-wrap: pretty;
+    border-right: 1px dashed #333;
+    border-left: 1px dashed #333;
+}
+
+hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgba(0, 0, 0, 0.8);
+}
+
