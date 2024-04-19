@@ -16,3 +16,15 @@ hr{
     border-top: 3px solid rgba(0, 0, 0, 0.8);
 }
 
+.mainPage{
+    text-align: left;
+}
+
+.mainInfo {
+    text-align: left;
+}
+
+li > button {
+ text-align: left;
+
+}
