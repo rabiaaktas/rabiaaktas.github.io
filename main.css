@@ -9,6 +9,20 @@ body{
     border-left: 1px dashed #333;
 }
 
+@media (max-width: 576px) {
+    body{
+        text-align: center;
+        background-color: rgb(171, 108, 230);
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 3%;
+        text-wrap: pretty;
+        border-right: 1px dashed #333;
+        border-left: 1px dashed #333;
+    }
+ }
+
+
 hr{
     margin-top: 1rem;
     margin-bottom: 1rem;
